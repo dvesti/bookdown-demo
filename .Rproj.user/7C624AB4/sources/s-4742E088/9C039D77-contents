@@ -1,0 +1,6 @@
+book_filename: "bookdown-demo"
+language:
+  ui:
+    edit: Правка
+    chapter_name: "Глава "
+delete_merged_file: true
