@@ -1,10 +1,10 @@
 fig:nice-fig
 tab:nice-tab
-prerequisites
+предисловие
 intro
 literature
 methods
 applications
-example-one
-example-two
-final-words
+пример-1
+пример-2
+summary
